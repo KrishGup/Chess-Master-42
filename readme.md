@@ -27,12 +27,11 @@ The AI Chess Coach is an interactive Windows software that helps players improve
 
 ## Frontend
 
-- **Electron.js or WPF (C#/.NET)** – Cross-platform desktop app development.
-- **React.js** – If using Electron for UI.
+- **WPF (C#/.NET)** – Cross-platform desktop app development.
 
 ## Backend & AI Processing
 
-- **Python (Flask or FastAPI)** – AI inference and processing.
+- **Python (Flask)** – AI inference and processing.
 - **Qualcomm AI Hub** – Pre-trained AI models for move analysis and speech/text generation.
 - **Stockfish API** – Open-source chess engine for move validation and analysis.
 
