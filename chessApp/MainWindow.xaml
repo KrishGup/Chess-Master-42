@@ -1,0 +1,10 @@
+﻿<Window x:Class="chessApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Name="inputTextBox" Width="200" Height="30" VerticalAlignment="Top" Margin="10"/>
+        <Button Content="Submit" Width="100" Height="30" VerticalAlignment="Top" Margin="10,50,0,0" Click="SubmitButton_Click"/>
+        <TextBlock Name="outputTextBlock" Width="200" Height="30" VerticalAlignment="Top" Margin="10,100,0,0"/>
+    </Grid>
+</Window>
