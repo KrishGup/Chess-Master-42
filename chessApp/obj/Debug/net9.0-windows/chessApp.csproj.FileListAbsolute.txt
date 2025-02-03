@@ -3,11 +3,10 @@ X:\Code\Chess-Master-42\chessApp\bin\Debug\net9.0-windows\chessApp.deps.json
 X:\Code\Chess-Master-42\chessApp\bin\Debug\net9.0-windows\chessApp.runtimeconfig.json
 X:\Code\Chess-Master-42\chessApp\bin\Debug\net9.0-windows\chessApp.dll
 X:\Code\Chess-Master-42\chessApp\bin\Debug\net9.0-windows\chessApp.pdb
+X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\MainWindow.baml
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\MainWindow.g.cs
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\App.g.cs
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\chessApp_MarkupCompile.cache
-X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\chessApp_MarkupCompile.lref
-X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\MainWindow.baml
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\chessApp.g.resources
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\chessApp.GeneratedMSBuildEditorConfig.editorconfig
 X:\Code\Chess-Master-42\chessApp\obj\Debug\net9.0-windows\chessApp.AssemblyInfoInputs.cache
