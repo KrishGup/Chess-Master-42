@@ -9,15 +9,20 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace chessApp;
-
-/// <summary>
-/// Interaction logic for MainWindow.xaml
-/// </summary>
-public partial class MainWindow : Window
+namespace chessApp
 {
-    public MainWindow()
+    public partial class MainWindow : Window
     {
-        InitializeComponent();
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+
+    private void SubmitButton_Click(object sender, RoutedEventArgs e)
+        {
+            string inputText = inputTextBox.Text;
+            outputTextBlock.Text = $"You entered: {inputText}";
+        }
     }
 }
